@@ -85,7 +85,7 @@
           mute: 1,
           playsinline: 1,
           rel: 0,
-          controls: 0,
+          controls: 1,
           modestbranding: 1,
           iv_load_policy: 3,
           disablekb: 1,

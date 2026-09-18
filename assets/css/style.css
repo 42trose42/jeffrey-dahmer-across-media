@@ -215,6 +215,14 @@ section { padding-block: clamp(5rem, 11vw, 9.5rem); position: relative; z-index:
   }
 }
 
+.byline {
+  margin: -.75rem 0 1.75rem;
+  font-size: 1rem;
+  letter-spacing: .01em;
+  color: var(--ink-2);
+}
+.byline span { color: var(--ink); font-weight: 600; }
+
 .hero-meta { display: flex; flex-wrap: wrap; gap: .5rem; margin-top: 2.5rem; }
 .chip {
   font-size: .8125rem; font-weight: 500;

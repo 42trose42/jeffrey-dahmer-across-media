@@ -520,6 +520,14 @@ section { padding-block: clamp(5rem, 11vw, 9.5rem); position: relative; z-index:
 }
 .cites li:last-child { border-bottom: 1px solid var(--hairline); }
 
+.hero .audience {
+  max-width: 42rem;
+  margin-top: 2rem;
+  background:
+    linear-gradient(135deg, rgba(255, 77, 148, .12), rgba(192, 122, 255, .08) 55%, rgba(63, 169, 255, .12)),
+    rgba(255, 255, 255, .03);
+}
+
 .hero-cta  { margin: 2rem 0 0; }
 .cited-cta { margin: 2.5rem 0 0; }
 

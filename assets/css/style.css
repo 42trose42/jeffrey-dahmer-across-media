@@ -529,7 +529,7 @@ section { padding-block: clamp(5rem, 11vw, 9.5rem); position: relative; z-index:
 }
 
 .hero-cta  { margin: 2rem 0 0; }
-.cited-cta { margin: 2.5rem 0 0; }
+.claim-cta { margin: 2.5rem 0 0; }
 
 .site-footer {
   padding-block: 3.5rem;
